@@ -1,6 +1,6 @@
 <div id="header">
     <h2 align='center'>
-        Hello there, welcome to my GitHub. I'm Itaii
+        Hello there, welcome to my GitHub. I'm Itaii :octocat:
     </h2>
     <img src="./recursos/banner_itaiicadena.png" alt="Banner">
 </div>
@@ -18,16 +18,15 @@
     </a>
 </div>
 
+### 👩‍💻 About me:
 <div id="About_me">
     <div id="Itaii_activity" align="left">
         <img src="./recursos/about_me.png" alt="Itaii Cadena">
     </div>
-    <div id="GitHub_activity" align="right">
-        <p>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaiiCadena&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ItaiiCadena" width=380/>
-        </p>
-        <p>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaiiCadena&&theme=onedark" alt="ItaiiCadena" width=380/>
-        </p>
+    <div id="GitHub_activity" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaiiCadena&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ItaiiCadena" width=380/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaiiCadena&&theme=onedark" alt="ItaiiCadena" width=380/>
     </div>
 </div>
+
+### PD: I'm still moving my local projects to this site, please be patient. 💁
